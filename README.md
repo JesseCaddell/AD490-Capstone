@@ -20,6 +20,16 @@ This project follows a disciplined 11-week roadmap designed to deliver a
 demo-ready SaaS MVP suitable for a capstone presentation and long-term
 extension.
 
+## NOT IN SCOPE
+Out of scope for MVP:
+
+- Billing / Stripe
+- Team roles / RBAC
+- Project V2 template syncing + health checks (optional later)
+- Analytics dashboards
+- Drag-and-drop workflow editor
+- Environment secrets automation
+
 ---
 
 ### **Week 1 — Proposal, Planning, and Project Skeleton**
