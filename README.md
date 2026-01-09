@@ -14,21 +14,37 @@ Project V2 Epics:
 - ✔ EPIC 6 — Testing, Bugfixing, and Polish
 - ✔ EPIC 7 — Documentation + Final Presentation
 
+# MVP Scope (11-week plan)
+
+## In scope (MVP)
+- GitHub App installation
+- Webhook receiver + signature verification
+- Repo discovery + repo list API
+- Rules engine (pull_request.opened) with actions:
+  - add label
+  - request reviewers
+  - post comment
+- Workflow generator (1 template: Node CI) and commit to repo
+- Basic web UI:
+  - repo list
+  - rules list + create rule
+  - workflow “apply template” action
+  - activity log (basic)
+
+## Out of scope (MVP)
+- Billing/Stripe
+- Multi-tenant RBAC / team management
+- Project V2 template syncing + health checks (stretch)
+- Analytics dashboards (stretch)
+- Drag-and-drop workflow editor (stretch)
+- Environment secrets / deployments automation
+  
+
 ## 🗺️ Project Roadmap — 11 Week Execution Plan
 
 This project follows a disciplined 11-week roadmap designed to deliver a
 demo-ready SaaS MVP suitable for a capstone presentation and long-term
 extension.
-
-## NOT IN SCOPE
-Out of scope for MVP:
-
-- Billing / Stripe
-- Team roles / RBAC
-- Project V2 template syncing + health checks (optional later)
-- Analytics dashboards
-- Drag-and-drop workflow editor
-- Environment secrets automation
 
 ---
 
