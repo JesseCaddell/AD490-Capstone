@@ -74,6 +74,17 @@ extension.
 **Milestone**
 - Project builds, deploys, and is ready for feature development
 
+## GitHub App Webhook URL (Temporary)
+
+During initial setup, the GitHub App webhook URL is set to:
+
+https://example.com/webhooks/github
+
+This is a placeholder required to complete GitHub App creation.
+The webhook URL will be updated to a real HTTPS endpoint
+(ngrok or Cloudflare tunnel) once the backend API is running
+and ready to receive events.
+
 ---
 
 ### **Week 2 — Architecture and GitHub App Setup**
