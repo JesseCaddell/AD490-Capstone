@@ -307,5 +307,5 @@ By the end of Week 11, this project delivers:
 ---
 
 ### Related Repos
-https://github.com/JesseCaddell/ad490-workflow-automator-api
-https://github.com/JesseCaddell/ad490-workflow-automator-web
+- https://github.com/JesseCaddell/ad490-workflow-automator-api
+- https://github.com/JesseCaddell/ad490-workflow-automator-web
