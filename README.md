@@ -302,3 +302,10 @@ By the end of Week 11, this project delivers:
 - A clean, demo-ready UI
 - Complete technical and academic documentation
 - A strong portfolio piece demonstrating full-stack engineering, DevOps automation, and system design
+
+
+---
+
+### Related Repos
+https://github.com/JesseCaddell/ad490-workflow-automator-api
+https://github.com/JesseCaddell/ad490-workflow-automator-web
