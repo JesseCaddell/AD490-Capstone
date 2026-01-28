@@ -309,3 +309,6 @@ By the end of Week 11, this project delivers:
 ### Related Repos
 - https://github.com/JesseCaddell/ad490-workflow-automator-api
 - https://github.com/JesseCaddell/ad490-workflow-automator-web
+
+📘 Rules Engine behavior and guarantees:
+- See `rules-engine/README.md` within API repo
