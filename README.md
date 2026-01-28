@@ -1,5 +1,8 @@
 # AD490-Capstone
 This is my capstone project. Name subject to change.
+### Related Repos
+- https://github.com/JesseCaddell/ad490-workflow-automator-api
+- https://github.com/JesseCaddell/ad490-workflow-automator-web
 
 
 ROADMAP BROKEN INTO EPICS
@@ -305,10 +308,6 @@ By the end of Week 11, this project delivers:
 
 
 ---
-
-### Related Repos
-- https://github.com/JesseCaddell/ad490-workflow-automator-api
-- https://github.com/JesseCaddell/ad490-workflow-automator-web
 
 📘 Rules Engine behavior and guarantees:
 - See `rules-engine/README.md` within API repo
