@@ -1,6 +1,6 @@
 # AD490-Capstone (Flowarden)
 
-# Current Progress
+### Current Progress
 https://github.com/users/JesseCaddell/projects/4
 
 ### Related Repos
