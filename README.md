@@ -1,5 +1,5 @@
 # AD490-Capstone (Flowarden)
-This is my capstone project. Name subject to change.
+
 ### Related Repos
 - https://github.com/JesseCaddell/ad490-workflow-automator-api
 - https://github.com/JesseCaddell/ad490-workflow-automator-web
